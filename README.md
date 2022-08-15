@@ -17,7 +17,7 @@ Advanced oxidation processes (AOPs) have been proven to help with removing organ
 
 </p>
 
-> The full research report can be read [here.](files/tDCS-Research-Report.pdf)
+> The full research [report](files/Arsalan%20Barolia%20-%20Worldwide%20Applications%20of%20AOP.pdf) and [presentation](files/Arsalan%20Barolia-Worldwide%20Applications%20of%20AOP%20Presentation.pdf) can be viewed.
 
 [Back To The Top](#project)
 

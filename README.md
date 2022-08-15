@@ -5,7 +5,6 @@
 ### Table of Contents
 
 - [Abstract](#Abstract)
-- [Contributions](#contributions)
 - [Author Info](#author-info)
 
 ---
@@ -19,16 +18,6 @@ Advanced oxidation processes (AOPs) have been proven to help with removing organ
 </p>
 
 > The full research report can be read [here.](files/tDCS-Research-Report.pdf)
-
-[Back To The Top](#project)
-
----
-
-## Contributions
-
-<h4>Nona Hashemi</h4>
-
-- LinkedIn - [https://www.linkedin.com/in/nona-hashemi/](https://www.linkedin.com/in/nona-hashemi/)
 
 [Back To The Top](#project)
 

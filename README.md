@@ -2,6 +2,8 @@
 
 # Using Advanced Oxidation Processes To Solve Worldwide Issues and it’s Limitations
 
+> The full research [report](files/Arsalan%20Barolia%20-%20Worldwide%20Applications%20of%20AOP.pdf) and [presentation](files/Arsalan%20Barolia-Worldwide%20Applications%20of%20AOP%20Presentation.pdf) can be viewed.
+
 ### Table of Contents
 
 - [Abstract](#Abstract)
@@ -17,7 +19,7 @@ Advanced oxidation processes (AOPs) have been proven to help with removing organ
 
 </p>
 
-> The full research [report](files/Arsalan%20Barolia%20-%20Worldwide%20Applications%20of%20AOP.pdf) and [presentation](files/Arsalan%20Barolia-Worldwide%20Applications%20of%20AOP%20Presentation.pdf) can be viewed.
+
 
 [Back To The Top](#project)
 
@@ -27,9 +29,9 @@ Advanced oxidation processes (AOPs) have been proven to help with removing organ
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 

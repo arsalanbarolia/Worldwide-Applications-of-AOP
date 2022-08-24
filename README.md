@@ -29,7 +29,7 @@ Advanced oxidation processes (AOPs) have been proven to help with removing organ
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
 - GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
 - Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
